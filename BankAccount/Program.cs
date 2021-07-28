@@ -45,7 +45,6 @@ namespace BankAccount
                 Console.WriteLine("Choose the actions to be performed");
                 i = Convert.ToChar(Console.ReadLine());
             }
-            Console.ReadLine();
             
         }
 
